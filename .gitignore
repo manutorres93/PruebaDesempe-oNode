@@ -1,0 +1,9 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos específicos (por ejemplo, archivos de log)
+*.log
+
+# Ignorar archivos de configuración con claves sensibles
+config.js
+.env
